@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/m6439f19ft70wt1u?svg=true)](https://ci.appveyor.com/project/shayu78/ra-redux-filter)
 Фильтрация
 ===
 
